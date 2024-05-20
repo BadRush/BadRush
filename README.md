@@ -11,7 +11,7 @@ I'm a passionate software developer with a love for web development, data analys
 - **Tools:** Git, Docker, Kubernetes, Jenkins
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
-## My Projects
+## My Projects [under maintenance]
 - **[Project 1](https://github.com/BadRush/project1):** A web application for managing tasks.
 - **[Project 2](https://github.com/anamBadrus/project2):** A machine learning project for predicting stock prices.
 - **[Project 3](https://github.com/anamBadrus/project3):** A mobile app for fitness tracking.
@@ -22,10 +22,10 @@ I'm a passionate software developer with a love for web development, data analys
 
 
 ## GitHub Stats
-![anamBadrus's GitHub stats](https://github-readme-stats.vercel.app/api?username=anamBadrus&show_icons=true&theme=radical)
+![anamBadrus's GitHub stats](https://github-readme-stats.vercel.app/api?username=BadRush&show_icons=true&theme=radical)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anamBadrus&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BadRush&layout=compact&theme=radical)
 
 ## Recent Activity
 <!--START_SECTION:activity-->
@@ -38,4 +38,4 @@ I'm a passionate software developer with a love for web development, data analys
 ## Support Me
 If you like my work, consider buying me a coffee:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-donate-orange)](https://www.buymeacoffee.com/anamBadrus)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-donate-orange)](https://www.buymeacoffee.com/BadRush)
