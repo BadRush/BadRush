@@ -1,38 +1,39 @@
-# Hi there, I'm anamBadrus 👋
+# Anam Badrus | Network & Systems Engineer 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=anamBadrus&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anamBadrus&style=for-the-badge&color=0077b6" alt="Profile Views"/>
+</p>
 
-## About Me
-I'm a passionate software developer with a love for web development, data analysis, and open source projects. Always eager to learn new technologies and improve my skills.
+Engineer berpengalaman 5+ tahun yang mendesain dan mengelola infrastruktur jaringan dan server (MikroTik, Juniper, Cisco, Proxmox). Saat ini mendalami otomatisasi jaringan dan sedang menempuh studi S1 Sistem Informasi.
 
-## My Skills
-- **Languages:** JavaScript, Python, Java, C++
-- **Frameworks:** React, Node.js, Django, Spring Boot
-- **Tools:** Git, Docker, Kubernetes, Jenkins
-- **Databases:** MySQL, PostgreSQL, MongoDB
+📜 **Sertifikasi**: MTCNA, MTCRE, MTCTCE, **MTCINE**
 
-## My Projects [under maintenance]
-- **[Project 1](https://github.com/BadRush/project1):** A web application for managing tasks.
-- **[Project 2](https://github.com/anamBadrus/project2):** A machine learning project for predicting stock prices.
-- **[Project 3](https://github.com/anamBadrus/project3):** A mobile app for fitness tracking.
+---
 
-## Get in Touch
-- **Email:** [mail@anambadrus.my.id](mailto:mail@anambadrus.my.id)
-- **LinkedIn:** [anamBadrus](https://linkedin.com/in/anamBadrus)
+#### 🔧 Core Tech Stack
 
+<p align-center">
+  <img src="https://img.shields.io/badge/MikroTik-RouterOS-294592?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik">
+  <img src="https://img.shields.io/badge/Juniper-Junos-D24939?style=for-the-badge&logo=junipernetworks&logoColor=white" alt="Juniper">
+  <img src="https://img.shields.io/badge/Cisco-IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
+  <img src="https://img.shields.io/badge/Proxmox-VE-E56020?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox">
+  <img src="https://img.shields.io/badge/Linux-Server-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
+</p>
 
-## GitHub Stats
-![anamBadrus's GitHub stats](https://github-readme-stats.vercel.app/api?username=BadRush&show_icons=true&theme=radical)
+---
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BadRush&layout=compact&theme=radical)
+#### 📊 Statistik & Aktivitas
 
-## Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BadRush&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="anamBadrus's GitHub stats"/>
+</p>
 
-## Fun Fact
-- I love solving puzzles and participating in coding challenges.
-- I'm a big fan of sci-fi movies and books.
+---
 
+#### 📫 Hubungi Saya
 
+<p align="center">
+  <a href="mailto:anamb4drus@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/USERNAME_LINKEDIN_ANDA" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
