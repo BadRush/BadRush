@@ -12,12 +12,13 @@ Engineer berpengalaman 5+ tahun yang mendesain dan mengelola infrastruktur jarin
 
 #### 🔧 Core Tech Stack
 
-<p align-center">
+
+<p align="center">
   <img src="https://img.shields.io/badge/MikroTik-RouterOS-294592?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik">
   <img src="https://img.shields.io/badge/Juniper-Junos-D24939?style=for-the-badge&logo=junipernetworks&logoColor=white" alt="Juniper">
   <img src="https://img.shields.io/badge/Cisco-IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
   <img src="https://img.shields.io/badge/Proxmox-VE-E56020?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox">
-  <img src="https://img.shields.io/badge/Linux-Server-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Next.js-Framework-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
 </p>
 
