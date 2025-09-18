@@ -25,13 +25,6 @@ Engineer berpengalaman 5+ tahun yang mendesain dan mengelola infrastruktur jarin
 
 ---
 
-#### 📊 Statistik & Aktivitas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BadRush&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="anamBadrus's GitHub stats"/>
-</p>
-
----
 
 #### 📫 Hubungi Saya
 
